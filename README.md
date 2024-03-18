@@ -5,6 +5,9 @@
   <a href='https://vk.com/tragedyfiftyone'>
     <img src='https://img.shields.io/badge/MyVK-blue?logo=VK&logoColor=white&style=for-the-badge' />
   </a>
+  <a href='https://t.me/tragedyfiftyone'>
+    <img src='https://img.shields.io/badge/MyTG-blue?logo=Telegram&logoColor=white&style=for-the-badge%27' />
+  </a>
 </div>
 <div align='center'>
   <img src='https://komarev.com/ghpvc/?username=Tragedy-web&style=flat-square&color=gray' />
@@ -15,7 +18,8 @@
 </h1>
 :man_technologist: About Me :
    <div> - I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style={{display: 'inline'}}> from Tyumen.</div>
-  :hammer_and_wrench: Languages and Tools :
+   <div> - I love my job and am ready to start developing user interfaces at any time!</div>
+  :hammer_and_wrench: My tools :
   <div>
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,5 +30,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain-wordmark.svg" width="40" height="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" width="40" height="40" />&nbsp;
-      
+  </div>
+  <div>
+    I am open to communicate with you!
   </div>
