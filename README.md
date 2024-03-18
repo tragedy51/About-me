@@ -3,7 +3,7 @@
 </div>
 <div align='center'>
   <a href='https://vk.com/tragedyfiftyone'>
-    <img src='https://img.shields.io/badge/MyVK-blue?logo=VK&logoColor=white&style=for-the-badge' />
+    <img src='https://img.shields.io/badge/MyVK-blue?logo=VK&logoColor=white' />
   </a>
   <a href='https://t.me/tragedyfiftyone'>
     <img src='https://img.shields.io/badge/MyTG-blue?logo=Telegram&logoColor=white&style=for-the-badge%27' />
