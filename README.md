@@ -3,7 +3,7 @@
 </div>  
   
 
-## *<div align="center" style={{display: 'flex'}}><h2>Hi, I'm Tragedy</h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </div>*  
+## *<div align="center">Hi, I'm Tragedy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </div>*  
   
 
 #### *<div align="center"><h3>Frontend Developer from Tyumen</h3></div>* 
