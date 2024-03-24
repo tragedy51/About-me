@@ -24,7 +24,9 @@
 <a href="https://mobx.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" width="40" height="40" /></a>
 </div>
 
-</td><td valign="top" width="33%">
+
+<br />
+<br />
 
 
 
@@ -34,8 +36,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </div>  
 
-
-
 <br />
+<br />
+
+
 <div align="center">Github Stats</div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TragedysDev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
