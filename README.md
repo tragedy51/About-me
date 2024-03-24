@@ -26,9 +26,6 @@
 
 
 <br />
-<br />
-
-
 
 <div align="center">My Tools</div>
 <div align="center" style={{display: 'flex'}}>  
