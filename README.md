@@ -6,11 +6,11 @@
 ## *<div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> , I'm Tragedy </div>*  
   
 
-#### *<div align="center">Frontend Developer from Tyumen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></div>* 
+#### *<div align="center">Frontend Developer from Tyumen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style={{display: 'inline'}}></div>* 
 
 
 
-<h2 style={{textAlign: 'center'}}>Front-end</h2>
+<div align="center">Front-end</div>
 <div align="center" style={{display: 'flex'}}>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -28,7 +28,7 @@
 
 
 
-<h2 style={{textAlign: 'center'}}>My tools</h2>  
+<div align="center">My Tools</div>
 <div align="center" style={{display: 'flex'}}>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
