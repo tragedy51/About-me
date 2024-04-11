@@ -31,11 +31,4 @@
 <div align="center" style={{display: 'flex'}}>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</div>  
-
-<br />
-<br />
-
-
-<div align="center">Github Stats</div>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TragedysDev&theme=tokyonight" align="center" /></div>
+</div>
